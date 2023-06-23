@@ -1,0 +1,28 @@
+{
+  "name": "email-generator",
+  "version": "1.0.0",
+  "description": "Generates random email address with provided domain name and number of characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arijit2002/email-generator.git"
+  },
+  "keywords": [
+    "email",
+    "generator",
+    "generate",
+    "email-generator"
+  ],
+  "author": "Arijit Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arijit2002/email-generator/issues"
+  },
+  "homepage": "https://github.com/arijit2002/email-generator#readme",
+  "dependencies": {
+    "email-validator": "^2.0.4"
+  }
+}
