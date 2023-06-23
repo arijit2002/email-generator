@@ -8,4 +8,5 @@ Generates random email address with provided domain name and number of character
 
 ### Usage
 `const emailgenerator = require("email-generator");`
+
 `emailgenerator.generateEmail(10)`
