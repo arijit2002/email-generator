@@ -7,6 +7,6 @@ Generates random email address with provided domain name and number of character
 `npm install email-generator`
 
 ### Usage
-`const emailgenerator = require("email-generator");`
+`const emailgenerator = require("random-email-generator");`
 
 `emailgenerator.generateEmail(10)`
