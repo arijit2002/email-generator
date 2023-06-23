@@ -1,5 +1,5 @@
 {
-  "name": "email-generator",
+  "name": "random-email-generator",
   "version": "1.0.0",
   "description": "Generates random email address with provided domain name and number of characters.",
   "main": "index.js",
