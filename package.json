@@ -1,6 +1,6 @@
 {
   "name": "random-email-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generates random email address with provided domain name and number of characters.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/arijit2002/email-generator#readme",
   "dependencies": {
-    "email-validator": "^2.0.4"
+    "validator": "^13.9.0"
   }
 }
